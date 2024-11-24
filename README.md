@@ -16,7 +16,7 @@ Python, JavaScript, SQL, R
 Django, Flask, Node.js, Laravel  
 
 🌐 **Frontend**:  
-React, HTML, CSS  
+React, HTML, CSS, Tailwind, Bootstrap
 
 🗄️ **Databases**:  
 PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch  
