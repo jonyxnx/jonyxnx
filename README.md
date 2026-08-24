@@ -1,9 +1,4 @@
+hi, i'm a mathematician working as a swe.
+postgres, redis, terraform, aws, python, go, ts
 
-
-## 📫 Get in Touch  
-
-📧 **Email**:  
-[jonyguevara84@gmail.com](mailto:jonyguevara84@gmail.com)  
-
-💼 **LinkedIn**:  
-[My profile](https://www.linkedin.com/in/jonathanguevara123/)  
+my email: [jonyguevara84@gmail.com](mailto:jonyguevara84@gmail.com)  
